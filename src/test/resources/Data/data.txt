@@ -1,0 +1,11 @@
+user_ins: g.s.instructor@macmillan.com	
+pass_ins: !@
+
+user_stud: g.s.student@macmillan.com
+pass_stud: Password1
+
+title: Testing Purpose Course
+school_name: Test University - Denver, CO
+
+
+filename: Test
